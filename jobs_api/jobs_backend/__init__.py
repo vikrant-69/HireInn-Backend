@@ -1,0 +1,1 @@
+from .main import app  # Make the app available at package level
