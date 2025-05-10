@@ -1,0 +1,103 @@
+[
+{
+    "company": "Amazon",
+    "job_id": "2918769",
+    "job_title": "Assistant Brand Manager (SBS), Private Brands",
+    "job_description": "The Brand Specialist will work on offering dedicated support to top-tiered brands/ vendors to grow with Amazon by identifying and improving key customer inputs for growth such as content, marketing and stock availability among others. The person who joins the leadership team in this position must share our passion and commitment for serving our customers.",
+    "qualifications": "1+ years of account management, project or program management or buying experience - Bachelor's degree",
+    "location": "Bengaluru, India",
+    "employment_type": null,
+    "compensation_details": null,
+    "other": "Focus areas include selection, demand generation, catalogue quality, business advice and availability."
+  },
+
+  {
+    "company": "Amazon",
+    "job_id": "2965865",
+    "job_title": "SDE 2",
+    "job_description": "Develop best in class video discovery and viewing experience across mobile & living room devices (LRDs), building highly available and scalable applications that power a great entertainment experience.",
+    "qualifications": "3+ years of non-internship professional software development experience, 2+ years of non-internship design or architecture, 3+ years of Video Games Industry experience.",
+    "location": "Bangalore, India",
+    "employment_type": null,
+    "compensation_details": null,
+    "other": "Opportunity to work in a start-up like environment focusing on digital media and customer experiences."
+  },
+
+  {
+    "company": "Amazon",
+    "job_id": "2844224",
+    "job_title": "Sr Software Dev Engineer, Amazon Tax Services",
+    "job_description": "Work on one of the world's largest transactional distributed systems; responsible for the tax platform, providing core services that calculate taxes (sales tax and VAT) for all Amazon sales, physical and digital, globally and generate tax invoices.",
+    "qualifications": "BASIC QUALIFICATIONS - 5+ years of non-internship professional software development experience - 5+ years of programming with at least one software programming language experience - 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience",
+    "location": "Bangalore, India",
+    "employment_type": null,
+    "compensation details": null,
+    "other": "The team uses Java, Linux and Oracle-based environment."
+  },
+  {
+    "company": "Amazon",
+    "job_id": "2965469",
+    "job_title": "Support Engineer III, Cross Border Shopping Tech",
+    "job_description": "Own deployments, automation, scaling, and solving operations with software services. Identify and resolve issues, automate and improve repetitive processes, and work closely with the development team to identify operational needs.",
+    "qualifications": "2+ years of software development, or 2+ years of technical support experience; Bachelor's degree in engineering or equivalent; Experience troubleshooting, Operational Excellence and debugging technical systems; Experience in Java",
+    "location": "Chennai,India",
+    "employment_type": null,
+    "compensation_details": null,
+    "other": "Cross Border Shopping Tech builds and tests technology that brings Amazon footprint to new countries."
+  },
+  {
+    "company": "Amazon",
+    "job_id": "2957673",
+    "job_title": "Quality Assurance Manager",
+    "job_description": "Work with business and development teams to understand product vision and requirements; Be responsible for development of test strategies and creation of appropriate test harnesses; Oversee the development and execution of test plans and monitoring and reporting on test execution.",
+    "qualifications": "5+ years of quality assurance engineering experience; 3+ years of quality assurance teams management experience; Experience managing manual testers; Experience managing automation testers; Experience testing Web/Android/iOS technologies and back-end services",
+    "location": "Bangalore, India",
+    "employment_type": null,
+    "compensation": null,
+    "other": "Amazon and MX Player recently joined forces to accelerate premium free entertainment for 250 million users in India. Amazon merged MX Player and Amazon miniTV into one service - Amazon MX Player."
+  },
+  {
+    "company": "Amazon",
+    "job_id": "2957673",
+    "job_title": "Quality Assurance Manager",
+    "job_description": "Work with business and development teams to understand product vision and requirements; Be responsible for development of test strategies and creation of appropriate test harnesses; Oversee the development and execution of test plans and monitoring and reporting on test execution.",
+    "qualifications": "5+ years of quality assurance engineering experience; 3+ years of quality assurance teams management experience; Experience managing manual testers; Experience managing automation testers; Experience testing Web/Android/iOS technologies and back-end services",
+    "location": "Bangalore, India",
+    "employment_type": null,
+    "compensation": null,
+    "other": "Amazon and MX Player recently joined forces to accelerate premium free entertainment for 250 million users in India. Amazon merged MX Player and Amazon miniTV into one service - Amazon MX Player."
+  },
+  {
+    "company": "Amazon",
+    "job_id": "2965783",
+    "job_title": "Software Dev Engineer II",
+    "job_description": "Develop a completely brand new quick commerce experience using client side rendering frameworks based on ReactJS and multiple backend services. The new user experience will span across entire lifecycle of quick commerce shopping journey from discovery and traffic, storefront, ordering and delivery experience.",
+    "qualifications": "3+ years of non-internship professional software development experience, 2+ years of non-internship design or architecture experience.",
+    "location": "Bengaluru, India",
+    "employment_type": null,
+    "compensation": null,
+    "other": "The team follows a flexible and collaborative work culture with ample mentoring and guidance."
+  },
+  {
+    "company": "Amazon",
+    "job_id": "2941255",
+    "job_title": "Senior Product Manager, Seller Inventory Management Services",
+    "job_description": "Drive innovation in Inventory Management and Automation for Premium 3P sellers on A.in Marketplace. Own ASIN level Forecasting charter for P3P sellers and work with internal stakeholders to drive automation. Includes exploration of micro-models (using ML) to forecast customer demand better for P3P sellers and build systems & process improvements.",
+    "qualifications": "5+ years of product or program management, product marketing, business development or technology experience; Experience owning/driving roadmap strategy and definition; Experience with end to end product delivery",
+    "location": "Bangalore, India",
+    "employment_type": null,
+    "compensation": null,
+    "other": "The role is within the Centre of Retail Excellence (CoRE) vertical of the Seller Inventory Management Services (SIMS)."
+  },
+  {
+    "company": "Amazon",
+    "job_id": "2949692",
+    "job_title": "Catalog Associate",
+    "job_description": "As a Sales and operations Associate for Amazon Bazaar, you will have the exciting opportunity to work on new challenges, deliver competitive pricing, analyze seller performance metrics to help them become successful on our platform.",
+    "qualifications": "Bachelor's degree required, MBA is preferred; 2+ years of exp. in managing programs/operations/catalog.",
+    "location": "Bengaluru, India",
+    "employment_type": null,
+    "compensation_details": null,
+    "other": "Candidate should be comfortable interfacing with technology systems, be able to analyze data and gather actionable conclusions."
+  }
+]

@@ -1,0 +1,61 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.swp
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Miscellaneous
+*.lock
+*.cache
+*.pid
+*.seed
+*.pid.lock
+__pycache__/
+
+D:/AIProject/sHIREINN/hire_inn/Include/
+D:/AIProject/sHIREINN/hire_inn/Lib/
+D:/AIProject/sHIREINN/hire_inn/Lib/Scripts/
+
+D:/AIProject/sHIREINN/jobs_api/Include/
+D:/AIProject/sHIREINN/jobs_api/Lib/
+D:/AIProject/sHIREINN/jobs_api/Lib/Scripts/
