@@ -18,10 +18,17 @@ router = APIRouter(
 async def get_all_jobs(
     company: Optional[str] = Query(None, description="Filter by company name (case-insensitive)"),
     location: Optional[str] = Query(None, description="Filter by location (case-insensitive)"),
+    job_title: Optional[str] = Query(None, description="Filter by job title (case-insensitive)"),
+    skills: Optional[str] = Query(None, description="Filter by skills (case-insensitive)"),
+    work_mode: Optional[str] = Query(None, description="Filter by work mode (case-insensitive)"),
+    job_type: Optional[str] = Query(None, description="Filter by job type (case-insensitive)"),
+    sector: Optional[str] = Query(None, description="Filter by sector (case-insensitive)"),
+    experience: Optional[str] = Query(None, description="Filter by experience (case-insensitive)"),
+    salary: Optional[str] = Query(None, description="Filter by salary (case-insensitive)"),
     db: Collection = Depends(get_db)
 ):
     """
-    Retrieves a list of jobs, with optional filters for company and location.
+    Retrieves a list of jobs, with optional filters for company, location, job_title, skills, work_mode, job_type, sector, experience, and salary.
     The results are randomly shuffled.
     """
     try:
@@ -34,7 +41,21 @@ async def get_all_jobs(
         if company:
             query["company"] = {"$regex": company, "$options": "i"} 
         if location:
-            query["location"] = {"$regex": location, "$options": "i"} 
+            query["location"] = {"$regex": location, "$options": "i"}
+        if job_title:
+            query["title"] = {"$regex": job_title, "$options": "i"}
+        if skills:
+            query["skills"] = {"$regex": skills, "$options": "i"}
+        if work_mode:
+            query["work_mode"] = {"$regex": work_mode, "$options": "i"}
+        if job_type:
+            query["employment_type"] = {"$regex": job_type, "$options": "i"}
+        if sector:
+            query["sector"] = {"$regex": sector, "$options": "i"}
+        if experience:
+            query["experience"] = {"$regex": experience, "$options": "i"}
+        if salary:
+            query["salary"] = {"$regex": salary, "$options": "i"}
 
         # Fetch documents directly from MongoDB. The cursor is converted to a list.
         jobs_cursor = jobs_collection.find(query)
@@ -59,4 +80,4 @@ async def get_all_jobs(
 
 
 
-    
+    # http://localhost:8000/JOBS_V1/?company=google&location=USA
